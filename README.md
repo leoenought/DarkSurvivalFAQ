@@ -6,6 +6,7 @@
 <h2>Вариант 1</h2>
 
 <h2>Вариант 2</h2>
+
 ![image](https://github.com/leoenought/DarkSurvivalFAQ/assets/75946816/c96c39ba-707f-4e1c-b5fe-3158a884b9b5)
 
 ![image](https://github.com/leoenought/DarkSurvivalFAQ/assets/75946816/1454dc6d-1a15-497e-818c-62b22fcb6e15)
