@@ -3,7 +3,7 @@
 <h1>Установка сборки</h1>
 Ссылка для закачки сборки 
 
-[здесь](https://drive.google.com/file/d/1Q8imPdhEaYiL1zcCt48uE0bdkcYrAtMZ/view?usp=sharing)
+[здесь](https://drive.google.com/file/d/1YBhqQgfGbZRW6DQCF-5njPmYrIeV9etD/view?usp=drive_link)
 
 
 <h2>Вариант 1</h2>
