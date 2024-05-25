@@ -16,7 +16,7 @@
 
 
 
-P.S. Сборка сделана с помощью Prism Launcher, так что можно её быстро импортировать в лаунчер
+P.S. Сборка сделана с помощью Prism Launcher, так что её можно быстро импортировать в подобные лаунчеры: PolyMC, PollyMC, PrismLauncher
 
 ![image](https://github.com/leoenought/DarkSurvivalFAQ/assets/75946816/2c303303-0d00-42b0-a36e-ec693b8b5ddf)
 
