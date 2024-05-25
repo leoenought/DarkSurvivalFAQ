@@ -5,9 +5,14 @@
 
 [здесь](https://drive.google.com/file/d/1Q8imPdhEaYiL1zcCt48uE0bdkcYrAtMZ/view?usp=sharing)
 
+
 <h2>Вариант 1</h2>
 
+Если у Вас TLauncher или официальный лаунчер, то установите Forge или NeoForge на версию майнкрафта 1.20.1, затем перенесите папки: config, mods в папку .minecraft
+
 <h2>Вариант 2</h2>
+
+Если у Вас Prism Launcher, PolyMC, PollyMC, то делайте так, как показано на скриншотах
 
 ![image](https://github.com/leoenought/DarkSurvivalFAQ/assets/75946816/c96c39ba-707f-4e1c-b5fe-3158a884b9b5)
 
